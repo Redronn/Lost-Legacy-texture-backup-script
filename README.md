@@ -6,6 +6,8 @@ This script is for backing up landscape and exterior architecture textures for t
 You should disable performance mode options in MO2 if you use downsized textures to avoid overwriting some of them. Just replace the original files with the downsized ones, don't do
 it through Mod Organizer. If you want to revert to original Lost Legacy textures, then just replace them with the files backed up by this script.
 
+In Cathedral Assets Optimizer: select the folder this script backed up > Tick all boxes under Textures section > 2x2 ratio > Run
+
 After using 'Cathedral Assets Optimizer' remember to also archive/zip those textures to back them up and not accidentally lose them.
 
 Made for Lost Legacy version 1.2.0
