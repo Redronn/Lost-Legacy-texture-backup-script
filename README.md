@@ -1,5 +1,5 @@
 Download both the .py script and texturelist.txt and put them in the same folder as  Lost Legacy.
-Python required to open and run the script: https://www.python.org/downloads/
+Python required to run the script: https://www.python.org/downloads/
 
 This script is for backing up landscape and exterior architecture textures for the purpose of downsizing them with 'Cathedral Assets Optimizer' to get better performance/less stutters in Skyrim Lost Legacy. If performance options in MO2 don't work well enoough for you, then downsizing these textures might help as it reduces RAM & VRAM usage.
 
