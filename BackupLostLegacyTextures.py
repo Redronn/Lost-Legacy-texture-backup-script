@@ -28,13 +28,8 @@ print("This script is for backing up landscape and exterior architecture texture
       "downsizing them with 'Cathedral Assets Optimizer' to get better performance/less stutters in\n"
       "Skyrim Lost Legacy. If performance options in MO2 don't work well enoough for you, then\n"
       "downsizing these textures might help as it reduces RAM & VRAM usage.\n\n"
-      "You should disable performance mode options in MO2 if you use downsized textures to avoid\n"
-      "overwriting some of them. Just replace the original files with the downsized ones, don't do\n"
-      "it through Mod Organizer. If you want to revert to original Lost Legacy textures, then just\n"
-      "replace them with the files backed up by this script.\n\n"
-      "After using 'Cathedral Assets Optimizer' remember to also archive/zip those textures to back\n"
-      "them up and not accidentally lose them.\n\n"
-      "Made for Lost Legacy version 1.2.0\n\n")
+
+      "Made for Lost Legacy version 1.2.0\n")
 
 # Check if the script and 'texturelist.txt' are in the same directory as 'Lost Legacy'
 if not os.path.exists('Lost Legacy'):
