@@ -7,4 +7,5 @@ After using 'Cathedral Assets Optimizer' remember to also archive/zip those text
 
 Made for Lost Legacy version 1.2.0
 
+Download both the .py script and texturelist.txt and put them in the same folder as  Lost Legacy.
 Python is required to run this script: https://www.python.org/downloads/
