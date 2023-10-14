@@ -7,6 +7,6 @@ You should disable performance mode options in MO2 if you use downsized textures
 
 In Cathedral Assets Optimizer: select the folder this script backed up > Tick all boxes under the textures tab > 2x2 ratio > Run (it takes a pretty long time to complete)
 
-After using 'Cathedral Assets Optimizer' remember to also archive/zip those textures to back them up and not accidentally lose them.
+After using Cathedral Assets Optimizer remember to also archive/zip those textures to back them up and not accidentally lose them.
 
 Made for Lost Legacy version 1.2.0
