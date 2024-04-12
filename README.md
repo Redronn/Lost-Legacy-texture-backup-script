@@ -10,6 +10,6 @@ In Cathedral Assets Optimizer: select the folder this script backed up > Tick al
 
 Archive/zip the downsized textures to back them up.
 
-You should disable performance mode options in MO2 if you use downsized textures to avoid overwriting some of them. After downsizing just replace the original files with them, don't do it through Mod Organizer. If you want to revert to original Lost Legacy textures, just replace them with the files backed up by this script.
+You should disable performance mode options in MO2 if you use downsized textures to avoid overwriting some of them. After downsizing just replace the original files with them, don't do it through Mod Organizer. If you want to revert to original Lost Legacy textures, just replace them with the files backed up by the script.
 
 Made for Lost Legacy version 1.2.0
